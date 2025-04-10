@@ -1,1 +1,1 @@
-The acoustic data, environmental data and codes used in analysis.
+The acoustic data, environmental data used in analysis.
